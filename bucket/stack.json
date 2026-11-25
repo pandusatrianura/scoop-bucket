@@ -1,0 +1,15 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/pandusatrianura/NativeStackRunner/releases/download/v1.0.0/stack_1.0.0_windows_amd64.zip",
+            "bin": [
+                "stack.exe"
+            ],
+            "hash": "e743b5bb42ec2f12ad1cc766a6a451da531eb8ebbfaac7ed7081f1692333db75"
+        }
+    },
+    "homepage": "https://github.com/pandusatrianura/NativeStackRunner",
+    "license": "MIT",
+    "description": "Native Stack Runner (NSR) — Fast, containerless dependency manager"
+}

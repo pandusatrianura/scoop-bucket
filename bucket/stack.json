@@ -1,12 +1,12 @@
 {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/pandusatrianura/NativeStackRunner/releases/download/v1.1.0/stack_1.1.0_windows_amd64.zip",
+            "url": "https://github.com/pandusatrianura/NativeStackRunner/releases/download/v1.1.1/stack_1.1.1_windows_amd64.zip",
             "bin": [
                 "stack.exe"
             ],
-            "hash": "2e4a9a5e9d9f3d0ab95c0371d4c5181ba7530f28de032e8d8dad027e46975849"
+            "hash": "08ee30b199e26ac347226c7cb981e2eb5d4ed6df8145d0c8ff597e4665b09d06"
         }
     },
     "homepage": "https://github.com/pandusatrianura/NativeStackRunner",
